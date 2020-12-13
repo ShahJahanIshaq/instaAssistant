@@ -120,7 +120,7 @@ def main(driver, hashtag_list, num_of_posts):
 
 	followed_users = []
 
-	login(driver, 'shah_jahan.captures', '3Bscdeop3')
+	login(driver, '<username>', '<password>')
 
 	for hashtag in hashtag_list:
 
