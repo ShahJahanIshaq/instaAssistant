@@ -25,7 +25,7 @@ now = datetime.now()
 driver = webdriver.Chrome()
 
 username = "shah_jahan.captures"
-password = "3Bscdeop3"
+password = "<password>"
 
 def login(driver, username, password):
 
